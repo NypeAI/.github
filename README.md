@@ -1,5 +1,3 @@
-# NypeAI
-
 <p align="center">
   <img src="https://github.com/NypeAI/.github/blob/cf1fe2cdd51f687e9e758a478970c26fac11429d/img/Icon-nobg.png" alt="NypeAI 👋 A personality boost ❤️">
 </p>
